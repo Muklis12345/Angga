@@ -1,12 +1,14 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Pulsa [082221792667]
-│ • Dana [082221792667]
+│ • Pulsa [087824889163]
+│ • Dana [087824889163]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • Dana [082221792667]
-│ • Pulsa [082221792667]
+  *•PAKE BOT MINIMAL DONASI*
+│ *•MAUBRUN BOT TANPA KENDALAL?*
+│ *•LINK NYA:https://bit.ly/3T1LvLe*
+  *•RUN NYA GRATIS KOK*
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
